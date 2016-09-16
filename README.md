@@ -1,6 +1,18 @@
 # UnSHc
 UnSHc - How to decrypt SHc *.sh.x encrypted file ?
 
+# Please note
+
+I will not decrypt any file for people.
+Issues on GitHub are only to discuss about bug and/or improvement of the tool "UnSHc".
+
+If you think you have found a bug, please provide me the encrypted file ***AND the unencrypted file corresponding***. Without these two files I can't reverse it and analyze it.
+Add some information about the architecture where the encrypted file has been created (what linux distribution and version, what architecture x86 or x64, etc.).
+
+***All others "file decryption issues" will be closed directly.***
+
+# SHc review
+
 SHc (SHell compiler) is a fabulous tool created and maintained by Francisco Javier Rosales Garcia (http://www.datsi.fi.upm.es/~frosal/).
 This tool protect any shell script with encryption (ARC4).
 

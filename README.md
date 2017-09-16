@@ -90,9 +90,18 @@ Updated and modernized by Yann CAM
         ./unshc.sh script.sh.x -a 400f9b -d /tmp/dumpfile -s /tmp/strfile -o script_decrypted.sh
 ```
 
+UnSHc can only decrypt SHc encrypted file on **X86/x64** architecture.
+
 * Demonstration in video : 
     * https://www.youtube.com/watch?v=tmHVhMuG-Vg
 * SHc (in french) : 
     * https://www.asafety.fr/prog-and-dev/bashshunix-shc-le-compilateur-et-protecteur-de-script-shell/
 * UnSHc (in french) : 
     * https://www.asafety.fr/unshc-the-shc-decrypter/
+    
+# UnSHc-MIPS
+
+Thanks to @fffonion, a dedicated version of UnSHc has been released targeting SHc encrypted file on MIPS arcitecture.
+This **UnSHc-MIPS** version is available here : https://github.com/fffonion/UnSHc-MIPS
+
+Thank you again for your work and contribution !

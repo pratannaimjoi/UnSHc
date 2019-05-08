@@ -708,6 +708,7 @@ $GCC -o $TMPBINARY ${TMPBINARY}.c >/dev/null 2>&1
 
 echo "[*] Executing [$TMPBINARY] to decrypt [${BINARY}]"
 
+chmod +x $TMPBINARY
 if [ -z "$OUTPUTFILE" ]; then
         echo "[*] Retrieving initial source code in [${BINARY%.sh.x}.sh]"
         $TMPBINARY > ${BINARY%.sh.x}.sh

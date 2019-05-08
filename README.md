@@ -101,7 +101,14 @@ UnSHc can only decrypt SHc encrypted file on **X86/x64** architecture.
     
 # UnSHc-MIPS
 
-Thanks to @fffonion, a dedicated version of UnSHc has been released targeting SHc encrypted file on MIPS arcitecture.
+Thanks to @fffonion, a dedicated version of UnSHc has been released targeting SHc encrypted file on MIPS architecture.
 This **UnSHc-MIPS** version is available here : https://github.com/fffonion/UnSHc-MIPS
+
+Thank you again for your work and contribution !
+
+# UnSHc-ARM
+
+Thanks to @cliffalbert, a dedicated version of UnSHc has been released targeting SHc encrypted file on ARM architecture.
+This **UnSHc-ARM** version is available here : https://github.com/cliffalbert/UnSHc-arm
 
 Thank you again for your work and contribution !
